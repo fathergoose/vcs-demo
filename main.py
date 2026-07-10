@@ -1,6 +1,6 @@
 import math
 
-myvar = 5 + 5
+dads_var = 5 + 5
 
 print(myvar)
 
