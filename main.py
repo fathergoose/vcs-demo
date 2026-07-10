@@ -1,7 +1,6 @@
 import math
 
-myvar = 5 + 5
+myvar = 5 + 6
 
 print(myvar)
-
 
